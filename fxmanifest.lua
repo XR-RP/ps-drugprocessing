@@ -13,7 +13,7 @@ shared_scripts {
     '@PolyZone/CircleZone.lua',
 	'@qb-core/shared/locale.lua',
 	'config.lua',
-	'locales/en.lua'
+	'locales/sv.lua'
 }
 
 server_scripts {
